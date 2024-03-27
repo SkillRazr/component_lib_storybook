@@ -1,0 +1,13 @@
+.btn {
+  border-radius: 0.25rem;
+  height: 3rem;
+  font-size: 0.875rem;
+  line-height: 1.25rem;
+  font-weight: 600;
+  font-family: "Open Sans";
+  letter-spacing: 0;
+  text-align: center;
+  -webkit-font-smoothing: antialiased;
+  -moz-osx-font-smoothing: grayscale;
+  min-width: 180px;
+}
