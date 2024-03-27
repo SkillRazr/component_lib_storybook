@@ -15,3 +15,4 @@
 
 `npm install` - to install all the dependencies for this project
 `npm run dev` - to start the dev server
+`npm run storybook ` to start the storybook
